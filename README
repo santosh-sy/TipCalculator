@@ -1,0 +1,15 @@
+Version 1.0
+
+Description:
+This application allows users to calculate the amount each person needs to pay in a group after
+dinner. Users can enter the bill amount, tip percentage the group would like to give to the server
+and the number of people in the party. The application will provide the amount of money each person
+needs to pay.
+
+Users Input Required:
+The bill amount (double)
+The tip percentage (double)
+Number of persons in the party (integer)
+
+Application Output:
+Price per person (double)
